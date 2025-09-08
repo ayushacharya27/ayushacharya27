@@ -33,7 +33,7 @@
 ### 📫 Let's Connect!  
 
 - 📧 Email: [ayush.acharya2027@gmail.com](mailto:ayush.acharya2027@gmail.com)  
-- 🔗 LinkedIn: [Ayush Acharya](https://www.linkedin.com/in/ayush-acharya-27)  
+- 🔗 LinkedIn: [Ayush Acharya](https://www.linkedin.com/in/ayushacharya27)  
 
 ---
 
