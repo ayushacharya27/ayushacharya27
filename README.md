@@ -42,7 +42,7 @@
 #### 🚀 **Mars Rover – Autonomous Exploration Robot**  
 - Designed a **ROS-based Mars Rover** capable of autonomous exploration and environmental perception.  
 - Implemented:  
-  - **Ultrasonic-based localization** with real-time mapping  
+  - **Visual Odometry based localization** with real-time mapping  
   - **Computer vision algorithms** for feature detection  
   - **Camera control system** with ±60° rotation on command  
   - **Modular ROS nodes** for flexible system design  
