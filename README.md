@@ -1,56 +1,181 @@
 <div align="center">
-   
-  <br>
-  <h1>Hey there, I'm Ayush! 👋</h1>
-  <p>I'm a passionate and driven student with a keen interest in Robotics and Machine Learning. Currently, I'm also exploring the exciting world of Cybersecurity. I love solving challenges and building things that make an impact 🚀</p>
+
+<img src="YOUR_PHOTO_URL" width="150" height="150" style="border-radius: 50%;" alt="Ayush Acharya"/>
+
+<h1>Hey, I'm Ayush Acharya</h1>
+
+<h3>AI/ML Engineer • GenAI • Computer Vision • Software Development</h3>
+
+<p>
+Building intelligent systems, experimenting with AI, and turning ideas into working software.
+</p>
+
+<p>
+<a href="https://github.com/ayushacharya27">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ayushacharya27">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:[ayush.acharya2027@gmail.com](mailto:ayush.acharya2027@gmail.com)">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
 </div>
 
 ---
 
-### 💻 About Me  
+## About Me
 
-- 🔭 Currently studying **Cybersecurity at VIT University**  
-- 🌱 Always learning and expanding knowledge in **Robotics & Machine Learning**  
-- 👀 Passionate about creating **autonomous systems** and **computer vision applications**  
-- 🤝 Open to collaborate on **open-source Robotics & AI projects**  
+I'm a Computer Science student focused on **Artificial Intelligence, Machine Learning, and intelligent software systems**.
+
+* AI/ML enthusiast with a focus on **practical, production-oriented systems**
+* Interested in **Generative AI, LLMs, RAG, Computer Vision, and autonomous systems**
+* Building applications with **Python, PyTorch, TensorFlow, FastAPI, and modern AI frameworks**
+* Exploring **LLM security, adversarial machine learning, and privacy-preserving AI**
+* I enjoy taking an idea from **research → implementation → working system**
 
 ---
 
-### 📈 My GitHub Stats  
+## AI & ML Focus
 
 <div align="center">
 
-[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushacharya27&show_icons=true&theme=radical&hide=issues)](https://github.com/anuraghazra/github-readme-stats)  
+`Machine Learning` `Deep Learning` `Computer Vision` `Generative AI`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushacharya27&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+`LLMs` `RAG` `LangChain` `LangGraph` `AI Agents`
 
-[![GitHub Trophies](https://github-trophies.vercel.app/?username=ayushacharya27&theme=radical)](https://github.com/ryo-ma/github-trophies)  
+`Adversarial ML` `LLM Security` `Privacy-Preserving AI`
 
 </div>
 
 ---
 
-### 📫 Let's Connect!  
+## Tech Stack
 
-- 📧 Email: [ayush.acharya2027@gmail.com](mailto:ayush.acharya2027@gmail.com)  
-- 🔗 LinkedIn: [Ayush Acharya](https://www.linkedin.com/in/ayushacharya27)  
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql"/>
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+</p>
+
+**AI:** Machine Learning · Deep Learning · Computer Vision · LLMs · RAG · AI Agents
+
+### Backend & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github,linux"/>
+</p>
+
+**Frameworks:** LangChain · LangGraph · FastAPI · Flask
 
 ---
 
-### ⭐ Featured Project  
+## GitHub Stats
 
-#### 🚀 **Mars Rover – Autonomous Exploration Robot**  
-- Designed a **ROS-based Mars Rover** capable of autonomous exploration and environmental perception.  
-- Implemented:  
-  - **Visual Odometry based localization** with real-time mapping  
-  - **Computer vision algorithms** for feature detection  
-  - **Camera control system** with ±60° rotation on command  
-  - **Modular ROS nodes** for flexible system design  
-- **Technologies Used:** `Python` `ROS 2` `OpenCV` `Computer Vision`  
-- 🔗 [View Repository](https://github.com/ayushacharya27/mars-rover)  
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=ayushacharya27&show_icons=true&theme=transparent&hide=issues" height="180"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayushacharya27&layout=compact&theme=transparent" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=ayushacharya27&theme=radical"/>
+
+</div>
 
 ---
 
-<div align="center">  
-  <i>"The best way to predict the future is to invent it." – Alan Kay</i>  
+## Featured Projects
+
+### FireRoute
+
+**Dynamic AI-powered fire evacuation routing system**
+
+A risk-aware evacuation system combining **sensor fusion, predictive hazard modeling, and graph-based path planning** to dynamically route people through changing environments.
+
+**Tech:** `Python` `ESP32` `MQTT` `D* Lite` `EKF` `Graph Algorithms` `ThingsBoard`
+
+---
+
+### MD-STGAT
+
+**Multi-Dimensional Spatio-Temporal Graph Attention Network**
+
+An AI architecture for **PM2.5 forecasting** combining pollution and weather representations with graph attention, temporal modeling, and multi-horizon prediction.
+
+**Tech:** `PyTorch` `GNN` `GAT` `GraphSAGE` `Temporal Transformers` `Deep Learning`
+
+---
+
+### AthleteSphere
+
+**Embedding-based recommendation system**
+
+A recommendation system using **semantic embeddings** to match athletes with relevant opportunities based on their profiles and requirements.
+
+**Tech:** `Python` `Embeddings` `Machine Learning` `Recommendation Systems`
+
+---
+
+### Mars Rover
+
+**Autonomous AI-based exploration system**
+
+A ROS-based robotic platform integrating **computer vision, visual odometry, localization, mapping, and autonomous navigation**.
+
+**Tech:** `Python` `ROS 2` `OpenCV` `Computer Vision`
+
+[View Repository](https://github.com/ayushacharya27/mars-rover)
+
+---
+
+## What I'm Currently Exploring
+
+```text
+Generative AI
+      ↓
+LLMs → RAG → AI Agents → LangGraph
+      ↓
+AI Security → Adversarial ML → Privacy
+
+Computer Vision
+      ↓
+Perception → Localization → Autonomous Systems
+```
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+I'm interested in **AI/ML engineering, GenAI, intelligent software systems, and research-driven projects.**
+
+<a href="mailto:[ayush.acharya2027@gmail.com](mailto:ayush.acharya2027@gmail.com)">
+  Email
+</a>
+  •  
+<a href="https://www.linkedin.com/in/ayushacharya27">
+  LinkedIn
+</a>
+  •  
+<a href="https://github.com/ayushacharya27">
+  GitHub
+</a>
+
+<br><br>
+
+<i>Building intelligent systems, one experiment at a time.</i>
+
 </div>
