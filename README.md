@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="YOUR_PHOTO_URL" width="150" height="150" style="border-radius: 50%;" alt="Ayush Acharya"/>
+<img src="./assets/optimus-prime.png" width="160" height="160" alt="Optimus Prime"/>
 
 <h1>Hey, I'm Ayush Acharya</h1>
 
-<h3>AI/ML Engineer • GenAI • Computer Vision • Software Development</h3>
+<h3>AI/ML Engineer • GenAI • Computer Vision • Intelligent Software</h3>
 
 <p>
 Building intelligent systems, experimenting with AI, and turning ideas into working software.
@@ -17,7 +17,7 @@ Building intelligent systems, experimenting with AI, and turning ideas into work
 <a href="https://www.linkedin.com/in/ayushacharya27">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:[ayush.acharya2027@gmail.com](mailto:ayush.acharya2027@gmail.com)">
+<a href="mailto:ayush.acharya2027@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -30,11 +30,11 @@ Building intelligent systems, experimenting with AI, and turning ideas into work
 
 I'm a Computer Science student focused on **Artificial Intelligence, Machine Learning, and intelligent software systems**.
 
-* AI/ML enthusiast with a focus on **practical, production-oriented systems**
-* Interested in **Generative AI, LLMs, RAG, Computer Vision, and autonomous systems**
-* Building applications with **Python, PyTorch, TensorFlow, FastAPI, and modern AI frameworks**
-* Exploring **LLM security, adversarial machine learning, and privacy-preserving AI**
-* I enjoy taking an idea from **research → implementation → working system**
+- AI/ML enthusiast focused on **practical, production-oriented systems**
+- Interested in **Generative AI, LLMs, RAG, Computer Vision, and AI Agents**
+- Building applications with **Python, PyTorch, TensorFlow, FastAPI, and modern AI frameworks**
+- Exploring **LLM Security, Adversarial Machine Learning, and Privacy-Preserving AI**
+- Interested in taking ideas from **research → implementation → working systems**
 
 ---
 
@@ -88,59 +88,21 @@ I'm a Computer Science student focused on **Artificial Intelligence, Machine Lea
 
 </div>
 
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=ayushacharya27&theme=radical"/>
-
-</div>
-
 ---
 
-## Featured Projects
-
-### FireRoute
-
-**Dynamic AI-powered fire evacuation routing system**
-
-A risk-aware evacuation system combining **sensor fusion, predictive hazard modeling, and graph-based path planning** to dynamically route people through changing environments.
-
-**Tech:** `Python` `ESP32` `MQTT` `D* Lite` `EKF` `Graph Algorithms` `ThingsBoard`
-
----
-
-### MD-STGAT
-
-**Multi-Dimensional Spatio-Temporal Graph Attention Network**
-
-An AI architecture for **PM2.5 forecasting** combining pollution and weather representations with graph attention, temporal modeling, and multi-horizon prediction.
-
-**Tech:** `PyTorch` `GNN` `GAT` `GraphSAGE` `Temporal Transformers` `Deep Learning`
-
----
+## Featured Project
 
 ### AthleteSphere
 
-**Embedding-based recommendation system**
+**Embedding-Based Recommendation System**
 
 A recommendation system using **semantic embeddings** to match athletes with relevant opportunities based on their profiles and requirements.
 
-**Tech:** `Python` `Embeddings` `Machine Learning` `Recommendation Systems`
+**Technologies:** `Python` `Embeddings` `Machine Learning` `Recommendation Systems`
 
 ---
 
-### Mars Rover
-
-**Autonomous AI-based exploration system**
-
-A ROS-based robotic platform integrating **computer vision, visual odometry, localization, mapping, and autonomous navigation**.
-
-**Tech:** `Python` `ROS 2` `OpenCV` `Computer Vision`
-
-[View Repository](https://github.com/ayushacharya27/mars-rover)
-
----
-
-## What I'm Currently Exploring
+## Currently Exploring
 
 ```text
 Generative AI
@@ -151,31 +113,4 @@ AI Security → Adversarial ML → Privacy
 
 Computer Vision
       ↓
-Perception → Localization → Autonomous Systems
-```
-
----
-
-## Let's Connect
-
-<div align="center">
-
-I'm interested in **AI/ML engineering, GenAI, intelligent software systems, and research-driven projects.**
-
-<a href="mailto:[ayush.acharya2027@gmail.com](mailto:ayush.acharya2027@gmail.com)">
-  Email
-</a>
-  •  
-<a href="https://www.linkedin.com/in/ayushacharya27">
-  LinkedIn
-</a>
-  •  
-<a href="https://github.com/ayushacharya27">
-  GitHub
-</a>
-
-<br><br>
-
-<i>Building intelligent systems, one experiment at a time.</i>
-
-</div>
+Perception → Intelligent Systems
